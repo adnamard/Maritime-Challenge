@@ -210,26 +210,21 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown(
-"""
-<div style="text-align:center; color:#64748B; font-size:0.82rem; line-height:1.7;">
-
-Data: 2021–2024 • 15,000 Cargo Movements • 50 Global Terminals
-
-<br>
-
-Developed by <b>Dea Ramanda</b> |
-Data Analyst • Machine Learning Enthusiast
-
-<br>
-
-<a href="https://github.com/adnamard" target="_blank">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://linkedin.com/in/adnamard" target="_blank">LinkedIn</a>
-
-</div>
-""",
-unsafe_allow_html=True
-)
+        """
+        <div style="text-align:center; color:#64748B; font-size:0.82rem; line-height:1.7;">
+        Data: 2021–2024 • 15,000 Cargo Movements • 50 Global Terminals
+        <br>
+        
+        Developed by <b>Dea Ramanda</b> |
+        Data Analyst • Machine Learning Enthusiast
+        <br>
+        
+        <a href="https://github.com/adnamard" target="_blank">GitHub</a>
+        &nbsp;&nbsp;•&nbsp;&nbsp;
+        <a href="https://linkedin.com/in/adnamard" target="_blank">LinkedIn</a>
+        </div>
+        """,
+        unsafe_allow_html=True)
 
 
 # ─────────────────────────────────────────
